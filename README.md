@@ -1,4 +1,4 @@
-edits your chats (awesome!!!!) on the new chat thing <br />
+edit your chats <br />
 just run it and send a chat  <br />
 code is extremely unfinshed but a good poc <br />
 
